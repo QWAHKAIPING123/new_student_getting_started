@@ -1,1 +1,1 @@
-# new_student_getting_started
+## New Student Getting Started with Github
